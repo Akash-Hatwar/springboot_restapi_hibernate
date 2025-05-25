@@ -8,7 +8,7 @@ public class SpringBootRestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootRestApplication.class, args);
-		System.out.println("✅ Application has started successfully 1.");
+		System.out.println("✅ Application has started successfully .");
 	}
 
 }
